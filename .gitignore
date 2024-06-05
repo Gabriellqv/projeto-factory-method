@@ -1,0 +1,25 @@
+# Arquivos de compilação
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de construção do Maven
+target/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+projeto-factory-method.iml
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache e diretórios gerados
+.cache/
+out/
+build/
